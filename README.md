@@ -8,4 +8,5 @@ Slides and example code on the training Angular. Smile, winter 2023
 - `npm i` vs. `npm ci`:
   - https://www.geeksforgeeks.org/difference-between-npm-i-and-npm-ci-in-node-js/
   - https://stackoverflow.com/questions/52499617/what-is-the-difference-between-npm-install-and-npm-ci
-- ...
+- TypeScript `interface` vs `type`: https://levelup.gitconnected.com/typescript-what-is-the-difference-between-type-and-interface-9085b88ee531
+- TypeScript guru Matt Pocock: https://www.youtube.com/@mattpocockuk
